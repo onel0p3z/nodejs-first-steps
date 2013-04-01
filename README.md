@@ -1,1 +1,1 @@
-My first steps and test apps with Node.js from tutorials and talk videos on youtube.
+My first steps and test apps with Node.js from videos, tutorials, and talks  on youtube.
